@@ -149,6 +149,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>QLTK.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\imge_Home.jpg" />
     <None Include="Resources\user-sign-icon-person-symbol-human-avatar-vector-12693195.jpg" />
   </ItemGroup>
   <ItemGroup>

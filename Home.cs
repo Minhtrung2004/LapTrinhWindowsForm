@@ -44,5 +44,10 @@ namespace WindowsFormsApp1
             SearchNganh searchNganh = new SearchNganh();
             searchNganh.ShowDialog();
         }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
