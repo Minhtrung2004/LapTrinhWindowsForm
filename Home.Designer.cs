@@ -42,7 +42,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(178, 42);
+            this.pictureBox1.Location = new System.Drawing.Point(76, 62);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(67, 36);
             this.pictureBox1.TabIndex = 0;
@@ -51,11 +51,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label1.Font = new System.Drawing.Font("Perpetua", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(309, 42);
+            this.label1.Location = new System.Drawing.Point(244, 62);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(284, 36);
+            this.label1.Size = new System.Drawing.Size(335, 46);
             this.label1.TabIndex = 1;
             this.label1.Text = "VIUNI ENTRANCE";
             this.label1.Click += new System.EventHandler(this.label1_Click);
