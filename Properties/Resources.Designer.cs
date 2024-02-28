@@ -63,6 +63,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap imge_Home {
+            get {
+                object obj = ResourceManager.GetObject("imge_Home", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap user_sign_icon_person_symbol_human_avatar_vector_12693195 {
             get {
                 object obj = ResourceManager.GetObject("user-sign-icon-person-symbol-human-avatar-vector-12693195", resourceCulture);
