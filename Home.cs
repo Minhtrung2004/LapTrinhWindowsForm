@@ -37,6 +37,7 @@ namespace WindowsFormsApp1
         {
             TinhDiemHB tinhDiemHB = new TinhDiemHB();
             tinhDiemHB.ShowDialog();
+
         }
 
         private void button6_Click(object sender, EventArgs e)

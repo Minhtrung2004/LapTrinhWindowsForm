@@ -61,3 +61,5 @@ D:\APP C#\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInput
 D:\APP C#\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.exe
 D:\APP C#\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.pdb
 >>>>>>> 15544f5d460725322b5fa8569f3e8cdbf595273d
+E:\AppViuni\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\AppViuni\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.TinhDiemHB.resources
