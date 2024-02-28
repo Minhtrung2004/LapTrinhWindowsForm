@@ -1,0 +1,30 @@
+D:\ViuniWindowsFormsApp1\bin\Debug\QLTK.mdf
+D:\ViuniWindowsFormsApp1\bin\Debug\QLTK_log.ldf
+D:\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuenMatKhau.resources
+D:\APP C#\ViuniWindowsFormsApp1\bin\Debug\QLTK.mdf
+D:\APP C#\ViuniWindowsFormsApp1\bin\Debug\QLTK_log.ldf
+D:\APP C#\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\APP C#\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\APP C#\ViuniWindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuenMatKhau.resources
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\APP C#\ViuniWindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
