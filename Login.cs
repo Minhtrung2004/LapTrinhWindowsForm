@@ -37,11 +37,6 @@ namespace WindowsFormsApp1
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             QuenMatKhau quenMatKhau = new QuenMatKhau();

@@ -36,6 +36,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             linkLabel1 = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -45,8 +46,11 @@
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
+            linkLabel1.BackColor = System.Drawing.Color.White;
+            linkLabel1.DisabledLinkColor = System.Drawing.SystemColors.ActiveCaption;
             linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            linkLabel1.Location = new System.Drawing.Point(183, 433);
+            linkLabel1.LinkColor = System.Drawing.Color.Blue;
+            linkLabel1.Location = new System.Drawing.Point(186, 547);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new System.Drawing.Size(167, 25);
             linkLabel1.TabIndex = 29;
@@ -59,9 +63,9 @@
             this.button1.BackColor = System.Drawing.Color.Blue;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(362, 487);
+            this.button1.Location = new System.Drawing.Point(370, 597);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(134, 43);
+            this.button1.Size = new System.Drawing.Size(136, 47);
             this.button1.TabIndex = 31;
             this.button1.Text = "Đăng Nhập";
             this.button1.UseVisualStyleBackColor = false;
@@ -70,8 +74,10 @@
             // linkLabel2
             // 
             this.linkLabel2.AutoSize = true;
+            this.linkLabel2.BackColor = System.Drawing.Color.White;
+            this.linkLabel2.DisabledLinkColor = System.Drawing.SystemColors.ActiveCaption;
             this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.linkLabel2.Location = new System.Drawing.Point(524, 433);
+            this.linkLabel2.Location = new System.Drawing.Point(532, 547);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(88, 25);
             this.linkLabel2.TabIndex = 30;
@@ -82,7 +88,7 @@
             // textBox2
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox2.Location = new System.Drawing.Point(362, 349);
+            this.textBox2.Location = new System.Drawing.Point(370, 475);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(250, 42);
@@ -90,7 +96,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(188, 349);
+            this.pictureBox3.Location = new System.Drawing.Point(206, 475);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(51, 42);
             this.pictureBox3.TabIndex = 27;
@@ -99,7 +105,7 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Location = new System.Drawing.Point(362, 282);
+            this.textBox1.Location = new System.Drawing.Point(370, 411);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(250, 42);
@@ -107,7 +113,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(188, 282);
+            this.pictureBox2.Location = new System.Drawing.Point(206, 411);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(51, 42);
             this.pictureBox2.TabIndex = 25;
@@ -117,18 +123,33 @@
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.user_sign_icon_person_symbol_human_avatar_vector_12693195;
-            this.pictureBox1.Location = new System.Drawing.Point(188, 57);
+            this.pictureBox1.Location = new System.Drawing.Point(206, 173);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(424, 202);
+            this.pictureBox1.Size = new System.Drawing.Size(414, 206);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.White;
+            this.label1.Font = new System.Drawing.Font("Perpetua", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label1.Location = new System.Drawing.Point(240, 97);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(335, 46);
+            this.label1.TabIndex = 32;
+            this.label1.Text = "VIUNI ENTRANCE";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(782, 577);
+            this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.imge_Home;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(856, 737);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.linkLabel2);
             this.Controls.Add(linkLabel1);
@@ -157,6 +178,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
     }
 }
 

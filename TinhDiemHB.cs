@@ -197,5 +197,10 @@ namespace WindowsFormsApp1
             // Đóng ứng dụng chương trình
             Application.Exit();
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
