@@ -315,9 +315,9 @@
             this.groupBox1.Controls.Add(this.txtHk1L10);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Location = new System.Drawing.Point(1, -8);
+            this.groupBox1.Location = new System.Drawing.Point(-3, -8);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1437, 743);
+            this.groupBox1.Size = new System.Drawing.Size(1447, 750);
             this.groupBox1.TabIndex = 41;
             this.groupBox1.TabStop = false;
             // 
@@ -331,7 +331,9 @@
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label20);
-            this.MinimumSize = new System.Drawing.Size(800, 600);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1455, 780);
+            this.MinimumSize = new System.Drawing.Size(1455, 780);
             this.Name = "TinhDiemHB";
             this.Text = "TinhDiemHB";
             this.Load += new System.EventHandler(this.TinhDiemHB_Load);
