@@ -12,7 +12,6 @@ namespace WindowsFormsApp1
 {
     public partial class TinhDiemHB : Form
     {
-        int a = 0;
         public TinhDiemHB()
         {
             InitializeComponent();
