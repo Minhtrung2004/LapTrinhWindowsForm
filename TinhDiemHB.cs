@@ -191,6 +191,16 @@ namespace WindowsFormsApp1
             // Đóng ứng dụng chương trình
             Application.Exit();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TinhDiemHB_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
