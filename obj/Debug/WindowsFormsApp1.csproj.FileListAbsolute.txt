@@ -64,3 +64,19 @@ D:\APP C#\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.pdb
 E:\AppViuni\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
 E:\AppViuni\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.TinhDiemHB.resources
 D:\APP C#\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.TinhDiemHB.resources
+D:\LapTrinhWindowsForm\bin\Debug\QLTK.mdf
+D:\LapTrinhWindowsForm\bin\Debug\QLTK_log.ldf
+D:\LapTrinhWindowsForm\bin\Debug\WindowsFormsApp1.exe.config
+D:\LapTrinhWindowsForm\bin\Debug\WindowsFormsApp1.exe
+D:\LapTrinhWindowsForm\bin\Debug\WindowsFormsApp1.pdb
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.Home.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.QuenMatKhau.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.TinhDiemHB.resources
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.exe
+D:\LapTrinhWindowsForm\obj\Debug\WindowsFormsApp1.pdb
