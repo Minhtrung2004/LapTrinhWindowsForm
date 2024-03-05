@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Home : Form
     {
+        int a;
         public Home()
         {
             InitializeComponent();
